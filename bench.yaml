@@ -1,0 +1,34 @@
+source:
+  url: https://github.com/Essenceia/Expresso_ASIC_Chip
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: CERN-OHL-S-2.0
+  upstream_default_branch: main
+tapeouts:
+- org: wafer.space
+  run: ws-run2
+  slot: CAFE
+  project: 'Expresso Ethernet Chip: 100Mbps Ethernet switch + Heat death of the Universe
+    Beacon - 0.5x0.5 version - Preferred version'
+  size: 0p5x0p5
+  kind: digital
+  commit: 80a20dedd124
+  commit_source: design_ref head recorded by the ws-run1/2 audit
+  tag: wafer.space/ws-run2/CAFE
+  branch: tapeout/wafer.space/ws-run2/CAFE
+  page: https://wafer.space/ws-run2/
+generated: '2026-10-17T23:35:15Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/wafer.space/ws-run2/CAFE
+- upstream/0p5x1
+- upstream/1x0p5
+- upstream/aggressive
+- upstream/eth_4port
+- upstream/exclude_prn_dly_cell
+- upstream/gl_sim_fix
+- upstream/main
+- upstream/nuclear_reactor
