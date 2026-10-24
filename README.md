@@ -12,7 +12,7 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 
 | Org | Run | Slot | Project | Size | Commit | Tag / branch |
 |---|---|---|---|---|---|---|
-| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | CAFE | Expresso Ethernet Chip: 100Mbps Ethernet switch + Heat death of the Universe Beacon - 0.5x0.5 version - Preferred version | 0p5x0p5 | `80a20dedd124` | [`wafer.space/ws-run2/CAFE`](https://github.com/wafer-space-bench/Essenceia--Expresso_ASIC_Chip/tree/tapeout/wafer.space/ws-run2/CAFE) |
+| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | CAFE | Expresso Ethernet Chip: 100Mbps Ethernet switch + Heat death of the Universe Beacon - 0.5x0.5 version - Preferred version | 0p5x0p5 | `c8f15a916eac` | [`wafer.space/ws-run2/CAFE`](https://github.com/wafer-space-bench/Essenceia--Expresso_ASIC_Chip/tree/tapeout/wafer.space/ws-run2/CAFE) |
 
 ## Branches
 

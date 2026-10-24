@@ -13,12 +13,12 @@ tapeouts:
     Beacon - 0.5x0.5 version - Preferred version'
   size: 0p5x0p5
   kind: digital
-  commit: 80a20dedd124
+  commit: c8f15a916eac
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run2/CAFE
   branch: tapeout/wafer.space/ws-run2/CAFE
   page: https://wafer.space/ws-run2/
-generated: '2026-10-17T23:35:15Z'
+generated: '2026-10-24T08:07:42Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:
